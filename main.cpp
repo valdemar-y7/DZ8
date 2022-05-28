@@ -2,12 +2,12 @@
 
 int main()
 {
-    Student klim;
-    cin >> klim;
-    cout << klim;
+    Student vladimir;
+    cin >> vladimir;
+    cout << vladimir;
     cout << endl;
     Student denchik;
     cin >> denchik;
-    klim = denchik;
-    cout << klim << endl;
+    vladimir = denchik;
+    cout << vladimir << endl;
 }
