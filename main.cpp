@@ -6,8 +6,8 @@ int main()
     cin >> vladimir;
     cout << vladimir;
     cout << endl;
-    Student denchik;
-    cin >> denchik;
-    vladimir = denchik;
+    Student andrey;
+    cin >> andrey;
+    vladimir = andrey;
     cout << vladimir << endl;
 }
